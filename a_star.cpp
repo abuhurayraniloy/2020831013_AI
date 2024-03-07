@@ -91,3 +91,35 @@ int main()
     cout << endl;
     return 0;
 }
+
+
+
+/*
+input:
+
+10 11
+Arab Sibiu 140
+Arab Timisoara 118
+Arab Zerind 75
+Sibiu Oradea 151
+Sibiu Fagaras 99
+Sibiu RimnicuVilcea 80
+Fagaras Bucharest 211
+RimnicuVilcea Craiova 146
+RimnicuVilcea Pitesti 97
+Pitesti Craiova 138
+Pitesti Bucharest 101
+
+Arab 366
+Sibiu 253
+Timisoara 329
+Zerind 374
+Oradea 380
+Fagaras 176
+RimnicuVilcea 193
+Bucharest 0
+Craiova 160
+Pitesti 100
+
+Arab Bucharest
+*/
